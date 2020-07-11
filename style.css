@@ -1,0 +1,37 @@
+body{
+    font-family: Roboto;
+    background: linear-gradient(to left,#607d8b,#d459cb);
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    width: 100px;
+    background-color: white;
+
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+.main{
+    position: relative;
+    bottom: 400px;
+}
+
+.defaultCircle{
+    opacity: .3;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
